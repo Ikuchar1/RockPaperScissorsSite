@@ -1,3 +1,26 @@
 body{
     background-color: darkgray;
 }
+
+.btns{
+    display:flex;
+    justify-content: space-around;
+}
+
+.flex-item{
+    margin: 0 5px;
+}
+
+.btn{
+    height:50px;
+    width: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
